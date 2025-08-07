@@ -59,6 +59,10 @@ Welcome to the repository for our robot built for the **Robot Design and Competi
 
 ---
 
+## At the competition
+[![Watch the video](https://github.com/user-attachments/assets/1a71a825-eff3-4f8e-857a-fd69ac0b17a5)](https://youtu.be/30hX-Og9dUU)
+
+
 ## 🧠 Technologies Used
 
 - Microcontroller: `Atmega2560`
@@ -187,10 +191,6 @@ Our robot is compact and modular:
 Each module in our robot—from motion control to manipulation—has been carefully integrated to ensure reliable, autonomous performance across all eight tasks. We focus on **robustness, adaptability, and precision** to complete the Hawkins Interdimensional Challenge.
 
 
-## At the competition
-[![Watch the video](https://github.com/user-attachments/assets/1a71a825-eff3-4f8e-857a-fd69ac0b17a5)](https://youtu.be/30hX-Og9dUU)
-
-
 
 
 ## 🧑‍💻 Live Coding Round
@@ -200,7 +200,7 @@ During the event, each team must participate in a **30-minute live coding sessio
 
 ---
 ## Team Pixie Bots
-<img src="https://github.com/user-attachments/assets/6cd1ae25-c625-4bb7-9760-ebe8e014f4e3" alt="Team Pixie Bots" width="300"/>
+<img src="https://github.com/user-attachments/assets/6cd1ae25-c625-4bb7-9760-ebe8e014f4e3" alt="Team Pixie Bots" width="600"/>
 
 
 ---
