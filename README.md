@@ -1,4 +1,4 @@
-# Autonomous Robot - EN2533
+# Autonomous Robot 
 Welcome to the repository for our robot built for the **Robot Design and Competition 2024** at the Department of Electronic and Telecommunication Engineering, University of Moratuwa. This year's competition is inspired by the **Stranger Things** universe and takes place in the fictional town of **Hawkins**, where robots must complete a series of interdimensional tasks to prevent a catastrophic merging of dimensions.
 
 
